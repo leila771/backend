@@ -1,0 +1,4 @@
+flask
+flask-cors
+transformers
+torch  # Add this if your model depends on PyTorch
